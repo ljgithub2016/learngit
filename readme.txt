@@ -1,2 +1,2 @@
 git is a version control system 20160830
-git is opensource system
+git is opensource system under then GPL
